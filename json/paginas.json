@@ -1,0 +1,68 @@
+{
+    "paginas":[
+        {
+            "id": 1,
+            "nombre": "RedRoom",
+            "descripcion": "RedRoom es una sitio web dedicado a la venta de prendas para mujeres, este sitio web fue realizado con tecnologias como PHP, JS, MySQL, peticiones AJAX y estilado con CSS3",
+            "url": [
+                "../../public/img/redroom/redroom1.PNG",
+                "../../public/img/redroom/redroom9.PNG",
+                "../../public/img/redroom/redroom11.PNG",
+                "../../public/img/redroom/redroom7.PNG"
+            ],
+            "claves": "JS, PHP, CSS3, HTML, AJAX, MYSQL"
+        },
+
+        {
+            "id": 2,
+            "nombre": "UpTask",
+            "descripcion": "RedRoom es una aplicacion web que consiste en la administracion de proyectos y sus tareas un concepto casi al del trello, fue realizado con tecnologias principales como Node JS, CSS 3, JS",
+            "url": [
+                "../../public/img/uptask/uptask1.PNG",
+                "../../public/img/uptask/uptask4.PNG",
+                "../../public/img/uptask/uptask5.PNG",
+                "../../public/img/uptask/uptask7.PNG"
+            ],
+            "claves": "Node JS, MySQL, WebPack, Babel, CSS3, JS, MVC"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Rock & EDM Festival",
+            "descripcion": "Rock & EDM Festival es un diseño y sitio web enfocado para la publicidad de un festival de rock y EDM, fue realizado con tecnologias como SASS, HTML5, JS",
+            "url": [
+                "../../public/img/festivalmusica/Captura de pantalla (33).PNG",
+                "../../public/img/festivalmusica/Captura de pantalla (35).PNG",
+                "../../public/img/festivalmusica/Captura de pantalla (36).PNG",
+                "../../public/img/festivalmusica/Captura de pantalla (38).PNG"
+            ],
+            "claves": "Gulp JS, SASS, HTML5, JS"
+        },
+
+        {
+            "id": 4,
+            "nombre": "GDLWEBCAMP",
+            "descripcion": "GDLWEBCAMP es una aplicacion web principalmente escolar, donde consiste en la venta de cupos para cursos de caracter desarrollo web",
+            "url": [
+                "../../public/img/GDL/gdl1.PNG",
+                "../../public/img/GDL/gdl2.PNG",
+                "../../public/img/GDL/gdl11.PNG",
+                "../../public/img/GDL/gdl7.PNG"
+            ],
+            "claves": "JS, HTML5, PHP, CSS3, AJAX, MYSQL"
+        },
+
+        {
+            "id": 5,
+            "nombre": "REYGOCOFFEE",
+            "descripcion": "ReygoCoffee es una aplicacion web dedicada a la venta de insumos de cafeterias y fue realizado con tecnologias como Node JS, MySQL, CSS3, HTML5, JS, uso de REST API's y elaboracion de REST API",
+            "url": [
+                "../../public/img/reygocoffe/Captura de pantalla (22).PNG",
+                "../../public/img/reygocoffe/Captura de pantalla (24).PNG",
+                "../../public/img/reygocoffe/Captura de pantalla (26).PNG",
+                "../../public/img/reygocoffe/Captura de pantalla (31).PNG"
+            ],
+            "claves": "Node JS, JS, CSS3, HTML5, JS, REST API'S, MVC, SWEETALERT"
+        }
+    ]
+}
